@@ -1,0 +1,26 @@
+header{
+     text-align: center;
+}
+
+h1{
+
+    background-color: goldenrod;text-align: center;
+}
+body{
+    background-color: rgb(170, 43, 43);
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Space Mono', monospace;
+}
+.subtitulo{
+    background-color: goldenrod;
+}
+footer{
+    background-color: goldenrod;
+
+}
+p{
+    font-size: 35;
+}
